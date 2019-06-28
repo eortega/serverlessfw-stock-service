@@ -1,4 +1,4 @@
-#Stock Services
+# Stock Services
 
 Technology used:
 - Serverless Framework 
@@ -10,7 +10,7 @@ Technology used:
 
 
 ## Important directories
-Using repository patter, you could see two important directories under:
+Using repository pattern, you could see two important directories under:
 
 ```bash
 $ ls -l repositories
